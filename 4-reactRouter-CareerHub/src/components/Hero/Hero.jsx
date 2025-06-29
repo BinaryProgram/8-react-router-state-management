@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="hero">
       <div className="hero-content flex-col lg:flex-row-reverse">
         <div>
-          <img src="/src/assets/images/user.png" />
+          <img src="/images/user.png"/>
         </div>
         <div className="self-auto">
           <h1 className="font-[manrope] text-4xl leading-14 font-extrabold text-[#1a1919] md:text-5xl">

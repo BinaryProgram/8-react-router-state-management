@@ -51,7 +51,7 @@ const AppliedJobs = () => {
       <section>
         <div className="flex items-center justify-between">
           <div>
-            <img className="w-3xs" src="/src/assets/images/bg1.png" alt="" />
+            <img className="w-3xs" src="/images/bg1.png" alt="" />
           </div>
           <div>
             <h1 className="font-[manrope] text-2xl font-extrabold text-nowrap text-[#1a1919] md:text-3xl">
@@ -59,7 +59,7 @@ const AppliedJobs = () => {
             </h1>
           </div>
           <div>
-            <img className="w-3xs" src="/src/assets/images/bg2.png" alt="" />
+            <img className="w-3xs" src="/images/bg2.png" alt="" />
           </div>
         </div>
       </section>
