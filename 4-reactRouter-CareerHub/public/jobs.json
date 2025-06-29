@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "company": "Airbnb",
+    "logo": "https://i.postimg.cc/prdGGsSV/airbnb.png",
+    "title": "Technical Database Engineer",
+    "type": ["Remote", "Full Time"],
+    "location": "Dhaka, Bangladesh",
+    "salary": "100K - 150K",
+    "link": "https://careers.airbnb.com/jobs/12345",
+    "details": {
+      "posted": "2025-06-10",
+      "job_description": "Responsible for managing and maintaining robust and secure database systems including performance tuning, data backups, and integrity assurance.",
+      "job_responsibility": "Collaborate with developers and DevOps teams to ensure database performance, scalability, and high availability. Handle migrations, security, and disaster recovery.",
+      "educational_requirements": "Bachelor's degree in Computer Science or a related field from a recognized university.",
+      "experience": "2–3 years of experience in database engineering or related fields."
+    },
+    "contact": {
+      "phone": "+880123456789",
+      "email": "hr@airbnb.com",
+      "address": "Airbnb Bangladesh, Gulshan, Dhaka"
+    }
+  },
+  {
+    "id": 2,
+    "company": "Google",
+    "logo": "https://i.postimg.cc/Y9MygrfW/google.png",
+    "title": "Cloud Solutions Architect",
+    "type": ["Remote", "Full Time"],
+    "location": "Chittagong, Bangladesh",
+    "salary": "110K - 160K",
+    "link": "https://careers.google.com/jobs/results/67890",
+    "details": {
+      "posted": "2025-06-08",
+      "job_description": "Design scalable and efficient cloud architectures using Google Cloud Platform (GCP) for enterprise clients.",
+      "job_responsibility": "Lead cloud transformation initiatives, evaluate cloud readiness, and ensure compliance with industry best practices.",
+      "educational_requirements": "Bachelor's or Master's degree in Computer Engineering or equivalent.",
+      "experience": "5+ years of experience in cloud architecture and infrastructure design."
+    },
+    "contact": {
+      "phone": "+880198765432",
+      "email": "jobs@google.com",
+      "address": "Google Office, Agrabad, Chittagong"
+    }
+  },
+  {
+    "id": 3,
+    "company": "Netflix",
+    "logo": "https://i.postimg.cc/bwSMfFws/netflix.png",
+    "title": "DevOps Engineer",
+    "type": ["Full Time"],
+    "location": "Sylhet, Bangladesh",
+    "salary": "90K - 130K",
+    "link": "https://jobs.netflix.com/jobs/13579",
+    "details": {
+      "posted": "2025-06-12",
+      "job_description": "Automate deployment pipelines, monitor system performance, and support continuous integration/delivery workflows.",
+      "job_responsibility": "Maintain scalable infrastructure using AWS, Docker, and Terraform. Ensure uptime and resolve system issues.",
+      "educational_requirements": "Bachelor’s degree in Software Engineering, IT, or relevant field.",
+      "experience": "3–5 years in DevOps or cloud infrastructure roles."
+    },
+    "contact": {
+      "phone": "+880177123456",
+      "email": "careers@netflix.com",
+      "address": "Netflix Tech Hub, Sylhet City Center"
+    }
+  },
+  {
+    "id": 4,
+    "company": "Tesla",
+    "logo": "https://i.postimg.cc/hP5wwqgk/tesla.png",
+    "title": "Software Engineer - Backend",
+    "type": ["Remote", "Full Time"],
+    "location": "Dhaka, Bangladesh",
+    "salary": "120K - 170K",
+    "link": "https://www.tesla.com/careers/jobs/24680",
+    "details": {
+      "posted": "2025-06-15",
+      "job_description": "Develop and maintain scalable backend systems for high-performance applications and services.",
+      "job_responsibility": "Write clean APIs, manage databases, and integrate with internal systems following best practices.",
+      "educational_requirements": "Bachelor's degree in Software Engineering or similar field.",
+      "experience": "3–4 years in backend development using Node.js, Python, or Go."
+    },
+    "contact": {
+      "phone": "+880130000987",
+      "email": "jobs@tesla.com",
+      "address": "Tesla Office, Banani, Dhaka"
+    }
+  },
+  {
+    "id": 5,
+    "company": "Oracle",
+    "logo": "https://i.postimg.cc/X7499sPt/oracle.png",
+    "title": "Database Administrator",
+    "type": ["Onsite", "Full Time"],
+    "location": "Khulna, Bangladesh",
+    "salary": "85K - 125K",
+    "link": "https://www.oracle.com/corporate/careers/job-opportunities.html",
+    "details": {
+      "posted": "2025-06-09",
+      "job_description": "Ensure performance, security, and reliability of company databases including Oracle and MySQL systems.",
+      "job_responsibility": "Backup, restore, troubleshoot, and upgrade databases. Monitor usage and ensure data integrity.",
+      "educational_requirements": "Bachelor's degree in Computer Science or IT-related field.",
+      "experience": "2–3 years experience as a DBA or similar role."
+    },
+    "contact": {
+      "phone": "+880175567899",
+      "email": "oracle.kh@oracle.com",
+      "address": "Oracle Building, New Market Road, Khulna"
+    }
+  },
+  {
+    "id": 6,
+    "company": "IBM",
+    "logo": "https://i.postimg.cc/ZRWwtwmw/ibm.png",
+    "title": "Data Engineer",
+    "type": ["Remote", "Part Time"],
+    "location": "Rajshahi, Bangladesh",
+    "salary": "70K - 100K",
+    "link": "https://www.ibm.com/employment",
+    "details": {
+      "posted": "2025-06-14",
+      "job_description": "Build data pipelines and ETL processes for handling large-scale structured and unstructured data.",
+      "job_responsibility": "Work with analysts to define data requirements and build scalable solutions. Maintain data warehouse integrity.",
+      "educational_requirements": "Bachelor’s degree in Data Science, Statistics, or Computer Science.",
+      "experience": "2–4 years in data engineering or a similar role."
+    },
+    "contact": {
+      "phone": "+880188844455",
+      "email": "careers@ibm.com",
+      "address": "IBM Regional Office, Rajshahi City"
+    }
+  }
+]

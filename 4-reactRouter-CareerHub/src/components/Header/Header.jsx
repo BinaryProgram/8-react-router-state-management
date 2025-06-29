@@ -1,4 +1,3 @@
-import React from "react";
 import { NavLink } from "react-router";
 
 const Header = () => {
@@ -23,10 +22,14 @@ const Header = () => {
   );
   return (
     <div>
-      <div className="navbar bg-base-100">
+      <div className="navbar">
         <div className="navbar-start">
           <div className="dropdown">
-            <div tabIndex={0} role="button" className="btn btn-ghost border-none px-2 lg:hidden">
+            <div
+              tabIndex={0}
+              role="button"
+              className="btn btn-ghost border-none px-2 lg:hidden"
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="h-5 w-5"
@@ -44,7 +47,7 @@ const Header = () => {
             </div>
             <ul
               tabIndex={0}
-              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 font-[manrope] font-medium text-[#757575] shadow text-base"
+              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 font-[manrope] text-base font-medium text-[#757575] shadow"
             >
               {links}
             </ul>
@@ -54,13 +57,13 @@ const Header = () => {
           </a>
         </div>
         <div className="navbar-center hidden lg:flex">
-          <ul className="menu menu-horizontal px-1 font-[manrope] font-medium text-[#757575] text-base">
+          <ul className="menu menu-horizontal px-1 font-[manrope] text-base font-medium text-[#757575]">
             {links}
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn rounded-lg border-none bg-gradient-to-r from-[#7E90FE] to-[#9873FF] font-[manrope] text-base md:text-xl font-extrabold text-[#fff]">
-            Star Applying
+          <a className="btn rounded-lg border-none bg-gradient-to-r from-[#7E90FE] to-[#9873FF] font-[manrope] text-base font-extrabold text-[#fff] md:text-xl">
+            Start Applying
           </a>
         </div>
       </div>

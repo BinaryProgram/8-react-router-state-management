@@ -1,13 +1,14 @@
 import React from 'react';
 import Hero from '../Hero/Hero';
 import CategoryList from '../CategoryList/CategoryList';
+import FeaturesJobs from '../FeaturesJobs/FeaturesJobs';
 
 const Home = () => {
     return (
         <div>
-            <h1>this is home</h1>
            <Hero></Hero>
            <CategoryList></CategoryList>
+           <FeaturesJobs></FeaturesJobs>
         </div>
     );
 };

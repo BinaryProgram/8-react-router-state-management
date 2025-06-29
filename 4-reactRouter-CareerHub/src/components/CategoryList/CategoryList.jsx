@@ -6,7 +6,7 @@ const CategoryList = () => {
   return (
     <section className="my-32">
       <div className="flex flex-col items-center gap-2">
-        <h3 className="text-center font-[manrope] text-4xl font-extrabold text-[#1a1919] lg:text-5xl">
+        <h3 className="text-center font-[manrope] text-4xl font-extrabold text-[#1a1919] lg:text-5xl mb-3">
           Job Category List
         </h3>
         <p className="text-center font-[manrope] text-base font-medium text-[#757575] lg:w-1/2">
